@@ -1,1 +1,4 @@
 *.pth
+/*/result/
+/*/*/result/
+/*/*/*/result/
